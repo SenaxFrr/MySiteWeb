@@ -69,10 +69,3 @@ a img{
         font-size: 4rem;
     }
 }
-
-@media screen and (max-width: 499px) {
-
-    .header a{
-        font-size: 3rem;
-    }
-}
